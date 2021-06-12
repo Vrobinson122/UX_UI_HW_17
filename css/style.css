@@ -1,0 +1,77 @@
+body, p {
+    font-family: 'Inter', sans-serif;
+}
+
+p {
+    font-size: 24px;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+    margin-left: auto;
+}
+
+.navigation {
+    width: 73%;
+    padding: 1%;
+}
+
+.navigation ul {
+    width: 150%;
+    margin-right: auto;
+    color: #6A2880; 
+    font-size: 26px;
+}
+
+.donateButton {
+    width: 150px;
+    height: 50px;
+    background-color: #8733A3;
+    color: white;
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.button {
+    width: 200px;
+    height: 48px;
+    background-color: #8733A3;
+    color: white;
+    border-radius: 33px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    box-shadow: 5px 8px #FFC839;
+}
+
+.ending {
+    background-color: #4A1C59;
+    color: white
+
+}
+.ending ul, li {
+    padding: 1%
+}
